@@ -1,3 +1,9 @@
+# BSN-boundary-sensitive-network
+I overwrote the codes from [this repo](https://github.com/wzmsltw/BSN-boundary-sensitive-network.pytorch) with Python 3.
+
+
+
+# This code is cited from [this repo](https://github.com/wzmsltw/BSN-boundary-sensitive-network.pytorch)
 # BSN-boundary-sensitive-network.pytorch
 
 This repo holds the pytorch-version codes of paper: "BSN: Boundary Sensitive Network for Temporal Action Proposal Generation", which is accepted in ECCV 2018. You can also find tensorflow-version implementation in [[BSN.tensorflow]](https://github.com/wzmsltw/BSN-boundary-sensitive-network).
